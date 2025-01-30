@@ -1,5 +1,8 @@
 # Classifying stock price trends through CNN
 
+
+<p align="center"> <img src="wallpaper.png"/> </p>
+
 ## This repository contains a TensorFlow-based image classifier for classifying stock price chart images into three categories: uptrend, downtrend, and sideways.
 
 ### Here's a step-by-step guide to the notebook:
